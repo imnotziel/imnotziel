@@ -105,33 +105,7 @@
 </div>
 <!-- <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=tw4fmfj06jmiuuwmvczmg220f&count=5&width=500">
 
-### Accounts
-
-<a href="https://www.instagram.com/yuntsakaito/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" width="125">
-</a><br>
-
-<a href="https://twitter.com/yuntsakaito314">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge" width="125">
-</a><br>
-
-<a href="https://www.youtube.com/@yuntsakaito2280">
-  <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" width="125">
-</a><br>
-
-<a href="https://open.spotify.com/user/tw4fmfj06jmiuuwmvczmg220f">
-  <img src="https://img.shields.io/badge/spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge" width="125">
-</a><br>
-
-<a href="https://www.last.fm/user/yuntsakaito">
-  <img src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white" alt="Last.fm Badge" width="125">
-</a><br>
-
-<a href="https://yuntsakaito.itch.io/">
-  <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io Badge" width="125">
-</a><br> -->
-
 <!-- <div align="center" style="background-color: white; border-radius:50px">
-  <img src="https://wakatime.com/share/@yuntsakaito/2f36743f-8971-45c1-afa8-fb31237baa31.svg" width="45%" alt="Wakatime Activity">
-  <img src="https://wakatime.com/share/@yuntsakaito/b57832af-67b4-434b-86bf-890046385339.svg" width="45%" alt="Wakatime Activity">
+  <img src="https://wakatime.com/share/@imnotziel/2f36743f-8971-45c1-afa8-fb31237baa31.svg" width="45%" alt="Wakatime Activity">
+  <img src="https://wakatime.com/share/@imnotziel/b57832af-67b4-434b-86bf-890046385339.svg" width="45%" alt="Wakatime Activity">
 </div> -->
