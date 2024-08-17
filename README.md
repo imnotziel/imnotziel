@@ -27,7 +27,7 @@
     </td>
     <td>
       <a href="https://github.com/imnotziel">
-        <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuntsakaito&theme=transparent&show_icons=true&hide_border=true&layout=compact&card_width=500&langs_count=14">
+        <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnotziel&theme=transparent&show_icons=true&hide_border=true&layout=compact&card_width=500&langs_count=14">
       </a>
     </td>
   </tr>
