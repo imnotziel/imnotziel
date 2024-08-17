@@ -1,41 +1,41 @@
 <div align="center">
 
-  [![Wakatime](https://wakatime.com/badge/user/a6e457ea-b213-46e8-a743-0e204e46e808.svg?style=for-the-badge&color=%23ffffff)](https://wakatime.com/@imnotziel)
-  [![GitHub Followers](https://img.shields.io/github/followers/yuntsakaito?style=for-the-badge&logo=github&color=%23d12a59)](https://github.com/imnotziel)
-  [![GitHub Stars](https://img.shields.io/github/stars/yuntsakaito?logo=coveralls&style=for-the-badge&color=%23FFD500)](https://github.com/imnotziel)
+  [![Wakatime](https://wakatime.com/badge/user/a6e457ea-b213-46e8-a743-0e204e46e808.svg?style=for-the-badge&color=%23ffffff)](https://wakatime.com/@YunTsakaito)
+  [![GitHub Followers](https://img.shields.io/github/followers/yuntsakaito?style=for-the-badge&logo=github&color=%23d12a59)](https://github.com/YunTsakaito)
+  [![GitHub Stars](https://img.shields.io/github/stars/yuntsakaito?logo=coveralls&style=for-the-badge&color=%23FFD500)](https://github.com/YunTsakaito)
   
 </div>
 
 <table>
   <tr>
     <td>
-      <a href="https://github.com/imnotziel">
-        <img style="width: 100%;" src="https://github-readme-stats-pyromagnes-projects.vercel.app/api?username=imnotziel&theme=transparent&show_icons=true&hide_border=true&count_private=true&card_width=500" alt="github stats">
+      <a href="https://github.com/YunTsakaito">
+        <img style="width: 100%;" src="https://github-readme-stats-pyromagnes-projects.vercel.app/api?username=yuntsakaito&theme=transparent&show_icons=true&hide_border=true&count_private=true&card_width=500" alt="github stats">
       </a>
     </td>
     <td>
-      <a href="https://github.com/imnotziel">
-        <img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=imnotziel&theme=transparent&hide_border=true&card_width=500" alt="github streak">
+      <a href="https://github.com/yuntsakaito">
+        <img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=yuntsakaito&theme=transparent&hide_border=true&card_width=500" alt="github streak">
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://wakatime.com/@imnotziel">
+      <a href="https://wakatime.com/@yuntsakaito">
         <img align="right" style="width: 100%;" src="https://github-readme-stats-pyromagnes-projects.vercel.app/api/wakatime?username=yuntsakaito\&layout=compact&theme=transparent&hide_border=true&custom_title=Time%20Spent%20in%20Languages&card_width=500&langs_count=14">
       </a>
     </td>
     <td>
-      <a href="https://github.com/imnotziel">
-        <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnotziel&theme=transparent&show_icons=true&hide_border=true&layout=compact&card_width=500&langs_count=14">
+      <a href="https://github.com/yuntsakaito">
+        <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuntsakaito&theme=transparent&show_icons=true&hide_border=true&layout=compact&card_width=500&langs_count=14">
       </a>
     </td>
   </tr>
 </table>
 
 <center>
-  <a href="https://github.com/imnotziel">
-    <img style="width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imnotziel&theme=tokyonight" alt="github stats">
+  <a href="https://github.com/yuntsakaito">
+    <img style="width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YunTsakaito&theme=tokyonight" alt="github stats">
   </a>
 </center>
 
@@ -104,6 +104,7 @@
 
 </div>
 <!-- <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=tw4fmfj06jmiuuwmvczmg220f&count=5&width=500">
+
 
 <!-- <div align="center" style="background-color: white; border-radius:50px">
   <img src="https://wakatime.com/share/@imnotziel/2f36743f-8971-45c1-afa8-fb31237baa31.svg" width="45%" alt="Wakatime Activity">
