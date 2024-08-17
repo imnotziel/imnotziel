@@ -22,7 +22,7 @@
   <tr>
     <td>
       <a href="https://wakatime.com/@imnotziel">
-        <img align="right" style="width: 100%;" src="https://github-readme-stats-pyromagnes-projects.vercel.app/api/wakatime?username=yuntsakaito\&layout=compact&theme=transparent&hide_border=true&custom_title=Time%20Spent%20in%20Languages&card_width=500&langs_count=14">
+        <img align="right" style="width: 100%;" src="https://github-readme-stats-pyromagnes-projects.vercel.app/api/wakatime?username=imnotziel\&layout=compact&theme=transparent&hide_border=true&custom_title=Time%20Spent%20in%20Languages&card_width=500&langs_count=14">
       </a>
     </td>
     <td>
