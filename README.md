@@ -10,12 +10,12 @@
   <tr>
     <td>
       <a href="https://github.com/imnotziel">
-        <img style="width: 100%;" src="https://github-readme-stats-pyromagnes-projects.vercel.app/api?username=yuntsakaito&theme=transparent&show_icons=true&hide_border=true&count_private=true&card_width=500" alt="github stats">
+        <img style="width: 100%;" src="https://github-readme-stats-pyromagnes-projects.vercel.app/api?username=imnotziel&theme=transparent&show_icons=true&hide_border=true&count_private=true&card_width=500" alt="github stats">
       </a>
     </td>
     <td>
       <a href="https://github.com/imnotziel">
-        <img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=yuntsakaito&theme=transparent&hide_border=true&card_width=500" alt="github streak">
+        <img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=imnotziel&theme=transparent&hide_border=true&card_width=500" alt="github streak">
       </a>
     </td>
   </tr>
@@ -27,7 +27,7 @@
     </td>
     <td>
       <a href="https://github.com/imnotziel">
-        <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuntsakaito&theme=transparent&show_icons=true&hide_border=true&layout=compact&card_width=500&langs_count=14">
+        <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnotziel&theme=transparent&show_icons=true&hide_border=true&layout=compact&card_width=500&langs_count=14">
       </a>
     </td>
   </tr>
@@ -35,7 +35,7 @@
 
 <center>
   <a href="https://github.com/imnotziel">
-    <img style="width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YunTsakaito&theme=tokyonight" alt="github stats">
+    <img style="width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imnotziel&theme=tokyonight" alt="github stats">
   </a>
 </center>
 
