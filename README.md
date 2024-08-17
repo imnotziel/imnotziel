@@ -1,32 +1,32 @@
 <div align="center">
 
-  [![Wakatime](https://wakatime.com/badge/user/a6e457ea-b213-46e8-a743-0e204e46e808.svg?style=for-the-badge&color=%23ffffff)](https://wakatime.com/@YunTsakaito)
-  [![GitHub Followers](https://img.shields.io/github/followers/yuntsakaito?style=for-the-badge&logo=github&color=%23d12a59)](https://github.com/YunTsakaito)
-  [![GitHub Stars](https://img.shields.io/github/stars/yuntsakaito?logo=coveralls&style=for-the-badge&color=%23FFD500)](https://github.com/YunTsakaito)
+  [![Wakatime](https://wakatime.com/badge/user/a6e457ea-b213-46e8-a743-0e204e46e808.svg?style=for-the-badge&color=%23ffffff)](https://wakatime.com/@imnotziel)
+  [![GitHub Followers](https://img.shields.io/github/followers/imnotziel?style=for-the-badge&logo=github&color=%23d12a59)](https://github.com/imnotziel)
+  [![GitHub Stars](https://img.shields.io/github/stars/imnotziel?logo=coveralls&style=for-the-badge&color=%23FFD500)](https://github.com/imnotziel)
   
 </div>
 
 <table>
   <tr>
     <td>
-      <a href="https://github.com/YunTsakaito">
+      <a href="https://github.com/imnotziel">
         <img style="width: 100%;" src="https://github-readme-stats-pyromagnes-projects.vercel.app/api?username=yuntsakaito&theme=transparent&show_icons=true&hide_border=true&count_private=true&card_width=500" alt="github stats">
       </a>
     </td>
     <td>
-      <a href="https://github.com/yuntsakaito">
+      <a href="https://github.com/imnotziel">
         <img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=yuntsakaito&theme=transparent&hide_border=true&card_width=500" alt="github streak">
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://wakatime.com/@yuntsakaito">
+      <a href="https://wakatime.com/@imnotziel">
         <img align="right" style="width: 100%;" src="https://github-readme-stats-pyromagnes-projects.vercel.app/api/wakatime?username=yuntsakaito\&layout=compact&theme=transparent&hide_border=true&custom_title=Time%20Spent%20in%20Languages&card_width=500&langs_count=14">
       </a>
     </td>
     <td>
-      <a href="https://github.com/yuntsakaito">
+      <a href="https://github.com/imnotziel">
         <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuntsakaito&theme=transparent&show_icons=true&hide_border=true&layout=compact&card_width=500&langs_count=14">
       </a>
     </td>
@@ -34,7 +34,7 @@
 </table>
 
 <center>
-  <a href="https://github.com/yuntsakaito">
+  <a href="https://github.com/imnotziel">
     <img style="width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YunTsakaito&theme=tokyonight" alt="github stats">
   </a>
 </center>
@@ -107,27 +107,27 @@
 
 ### Accounts
 
-<a href="https://www.instagram.com/yuntsakaito/">
+<a href="https://www.instagram.com/imnotziel/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" width="125">
 </a><br>
 
-<a href="https://twitter.com/yuntsakaito314">
+<a href="https://twitter.com/imnotziel">
   <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge" width="125">
 </a><br>
 
-<a href="https://www.youtube.com/@yuntsakaito2280">
+<a href="https://www.youtube.com/@imnotziel">
   <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" width="125">
 </a><br>
 
-<a href="https://open.spotify.com/user/tw4fmfj06jmiuuwmvczmg220f">
+<a href="https://open.spotify.com/user/imnotziel">
   <img src="https://img.shields.io/badge/spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge" width="125">
 </a><br>
 
-<a href="https://www.last.fm/user/yuntsakaito">
+<a href="https://www.last.fm/user/imnotziel">
   <img src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white" alt="Last.fm Badge" width="125">
 </a><br>
 
-<a href="https://yuntsakaito.itch.io/">
+<a href="https://imnotziel/">
   <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io Badge" width="125">
 </a><br> -->
 
